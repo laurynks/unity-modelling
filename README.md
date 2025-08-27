@@ -19,6 +19,7 @@ This repository provides a **shared workspace** where contributors can:
 
 ## 📂 Repository Structure
 
+```
 unity-modeling/
 │
 ├── models/         # Scripts and code for specific modeling approaches
@@ -27,3 +28,4 @@ unity-modeling/
 ├── notebooks/      # Jupyter notebooks for exploration, tutorials, or demos
 ├── docs/           # Documentation and guidelines
 └── tests/          # Unit and integration tests
+```
