@@ -11,7 +11,7 @@ This repository is part of the [UNITY Network](https://www.unity-mri.com/), a gl
 The UNITY Network spans many research sites worldwide, working together to ensure that advances in neuroimaging are **globally inclusive** and **locally relevant**.  
 
 This repository provides a **shared workspace** where contributors can:  
-- Upload and maintain code for data modeling (e.g., structural similarity networks, reproducibility studies, translational applications).  
+- Upload and maintain code for data modeling cognitive outcomes.  
 - Share best practices and examples for reproducible research.  
 - Collaborate on common tools and pipelines, reducing duplication of effort across sites.  
 
